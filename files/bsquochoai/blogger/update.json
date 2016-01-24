@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "bsquochoai",
+  "repo": "drquochoai/blogger-trangchu",
+  "files": {
+    "include": ["trangchumagone.js"]
+  }
+}
